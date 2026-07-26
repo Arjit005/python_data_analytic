@@ -274,8 +274,10 @@ view my notebook with detailed steps here:
 ## highest paid and most demanded skills for Data analyst 
 ### results:   
 in demand skills for data analysts in US:  
-![The highest paid and most in demanded skill for data analyst in US](images\result_4.png)    
-*Two seperate bar graphs visulazing the highest paid skills and most in demand skills for Data analyst in US.*
+![The highest paid and most in demanded skill for data analyst in US](images/result_4.png)    
+
+*Two seperate bar graphs visulazing the highest paid skills and most in demand skills for Data analyst in US.*   
+
 view my notebook with detailed steps here: 
 [salary_analysis.ipynb](project/4_salary_analysis.ipynb)   
 
