@@ -215,7 +215,7 @@ plt.show()
 ### Results  
 [Trending top skills for data analysis in the US](images/image.png)    
 
-![alt text](image.png)
+![alt text](images/image.png)
 *Bar graph visualizing the trending top skills for data analyst in the US in 2023.*
 
 view my notebook with detailed steps here:  
