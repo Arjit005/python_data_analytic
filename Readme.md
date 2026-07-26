@@ -140,7 +140,7 @@ plt.tight_layout()
 plt.show()
 ```   
 ### Results   
-![alt text](images\output.png)   
+![Results](images/output.png)  
 
 ## Insights:  
 - Identified SQL as the most consistently demanded skill across Data Analyst (51%), Data Engineer (68%), and Data Scientist (51%) roles, highlighting its importance as the core competency for data professionals.
